@@ -1,0 +1,7 @@
+C:\Users\mhenn\source\repos\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\mhenn\source\repos\Hello World\bin\Debug\Hello World.exe
+C:\Users\mhenn\source\repos\Hello World\bin\Debug\Hello World.pdb
+C:\Users\mhenn\source\repos\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\mhenn\source\repos\Hello World\obj\Debug\Hello World.exe
+C:\Users\mhenn\source\repos\Hello World\obj\Debug\Hello World.pdb
+C:\Users\mhenn\source\repos\Hello World\obj\Debug\Hello World.csprojAssemblyReference.cache
